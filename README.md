@@ -10,7 +10,7 @@ any time.
 - Solidity (Writing Smart Contract)
 - Javascript (React & Testing)
 - [Web3](https://web3js.readthedocs.io/en/v1.5.2/) (Blockchain Interaction)
-- [Truffle](https://www.trufflesuite.com/docs/truffle/overview) (Development Framework)
+- [Truffle](https://www.trufflesuite.com/docs/truffle/overview) (Development Framework)  (Use v5.4.2)
 - [Ganache-cli](https://github.com/trufflesuite/ganache) (For Local Blockchain)
 - [Infura.io](https://infura.io/) (For copying the Ethereum mainnet)
 - [MetaMask](https://metamask.io/) (Ethereum Wallet)
